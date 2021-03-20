@@ -1,0 +1,2 @@
+# SPICEitUp
+Simple LTSpice Guide
